@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-31-brightgreen.svg?longCache=true&style=for-the-badge">
+  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-36-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-Python/SQL-brightgreen.svg?longCache=true&style=for-the-badge">
 </p>
 
@@ -66,3 +66,13 @@
 |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| [Python](ProblemSolving/Warmup/mini_max_sum.py) | Easy | 10 |
 |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)| [Python](ProblemSolving/Warmup/birthday_cake_candles.py) | Easy | 10 |
 |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)| [Python](ProblemSolving/Warmup/time_conversion.py) | Easy | 15 |
+
+## Implementation
+
+| Problem         | Solution | Difficulty | Points |
+|:---------------:|:--------:|:----------:|:------:|
+|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)| [Python](ProblemSolving/Implementation/grading_students.py) | Easy | 10 |
+|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)| [Python](ProblemSolving/Implementation/kangaroo.py) | Easy | 10 |
+|[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)| [Python](ProblemSolving/Implementation/find_digits.py) | Easy | 25 |
+|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)| [Python](ProblemSolving/Implementation/extra_long_factorials.py) | Medium | 20 |
+|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| [Python](ProblemSolving/Implementation/between_two_sets.py) | Easy | 10 |
