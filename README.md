@@ -76,3 +76,5 @@
 |[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)| [Python](ProblemSolving/Implementation/find_digits.py) | Easy | 25 |
 |[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)| [Python](ProblemSolving/Implementation/extra_long_factorials.py) | Medium | 20 |
 |[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| [Python](ProblemSolving/Implementation/between_two_sets.py) | Easy | 10 |
+|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)| [Python](ProblemSolving/Implementation/breaking_the_records.py) | Easy | 10 |
+|[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| [Python](ProblemSolving/Implementation/birthday_chocolate.py) | Easy | 10 |
