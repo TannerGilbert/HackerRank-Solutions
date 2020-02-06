@@ -78,3 +78,5 @@
 |[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| [Python](ProblemSolving/Implementation/between_two_sets.py) | Easy | 10 |
 |[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)| [Python](ProblemSolving/Implementation/breaking_the_records.py) | Easy | 10 |
 |[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| [Python](ProblemSolving/Implementation/birthday_chocolate.py) | Easy | 10 |
+|[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)| [Python](ProblemSolving/Implementation/divisible_sum_pairs.py) | Easy | 10 |
+|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)| [Python](ProblemSolving/Implementation/migratory_birds.py) | Easy | 10 |
