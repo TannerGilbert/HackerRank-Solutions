@@ -83,3 +83,6 @@
 |[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)| [Python](ProblemSolving/Implementation/bon_appetit.py) | Easy | 10 |
 |[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)| [Python](ProblemSolving/Implementation/sock_merchant.py) | Easy | 10 |
 |[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| [Python](ProblemSolving/Implementation/drawing_book.py) | Easy | 10 |
+|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| [Python](ProblemSolving/Implementation/counting_valleys.py) | Easy | 15 |
+|[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)| [Python](ProblemSolving/Implementation/electronics_shop.py) | Easy | 15 |
+|[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)| [Python](ProblemSolving/Implementation/cats_and_a_mouse.py) | Easy | 15 |
