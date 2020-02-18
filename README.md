@@ -80,3 +80,6 @@
 |[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| [Python](ProblemSolving/Implementation/birthday_chocolate.py) | Easy | 10 |
 |[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)| [Python](ProblemSolving/Implementation/divisible_sum_pairs.py) | Easy | 10 |
 |[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)| [Python](ProblemSolving/Implementation/migratory_birds.py) | Easy | 10 |
+|[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)| [Python](ProblemSolving/Implementation/bon_appetit.py) | Easy | 10 |
+|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)| [Python](ProblemSolving/Implementation/sock_merchant.py) | Easy | 10 |
+|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| [Python](ProblemSolving/Implementation/drawing_book.py) | Easy | 10 |
