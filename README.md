@@ -86,3 +86,6 @@
 |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| [Python](ProblemSolving/Implementation/counting_valleys.py) | Easy | 15 |
 |[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)| [Python](ProblemSolving/Implementation/electronics_shop.py) | Easy | 15 |
 |[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)| [Python](ProblemSolving/Implementation/cats_and_a_mouse.py) | Easy | 15 |
+|[Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)| [Python](ProblemSolving/Implementation/forming_a_magic_square.py) | Medium | 20 |
+|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)| [Python](ProblemSolving/Implementation/picking_numbers.py) | Easy | 20 |
+|[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)| [Python](ProblemSolving/Implementation/climbing_the_leaderboard.py) | Medium | 20 |
