@@ -71,16 +71,17 @@
 
 | Problem         | Solution | Difficulty | Points |
 |:---------------:|:--------:|:----------:|:------:|
-|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)| [Python](ProblemSolving/Python/Implementation/grading_students.py) | Easy | 10 |
-|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)| [Python](ProblemSolving/Python/Implementation/kangaroo.py) | Easy | 10 |
-|[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)| [Python](ProblemSolving/Python/Implementation/find_digits.py) | Easy | 25 |
+|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)| [Python](ProblemSolving/Python/Implementation/grading_students.py), [Go](ProblemSolving/Go/Implementation/grading_students.go) | Easy | 10 |
+|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)| [Python](ProblemSolving/Python/Implementation/kangaroo.py), [Go](ProblemSolving/Go/Implementation/number_line_jumps.go) | Easy | 10 |
+|[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)| [Python](ProblemSolving/Python/Implementation/find_digits.py), [Go](ProblemSolving/Go/Implementation/between_two_sets.go) | Easy | 25 |
 |[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)| [Python](ProblemSolving/Python/Implementation/extra_long_factorials.py) | Medium | 20 |
-|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| [Python](ProblemSolving/Python/Implementation/between_two_sets.py) | Easy | 10 |
-|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)| [Python](ProblemSolving/Python/Implementation/breaking_the_records.py) | Easy | 10 |
-|[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| [Python](ProblemSolving/Python/Implementation/birthday_chocolate.py) | Easy | 10 |
-|[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)| [Python](ProblemSolving/Python/Implementation/divisible_sum_pairs.py) | Easy | 10 |
-|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)| [Python](ProblemSolving/Python/Implementation/migratory_birds.py) | Easy | 10 |
-|[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)| [Python](ProblemSolving/Python/Implementation/bon_appetit.py) | Easy | 10 |
+|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| [Python](ProblemSolving/Python/Implementation/between_two_sets.py), [Go](ProblemSolving/Go/Implementation/between_two_sets.go) | Easy | 10 |
+|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)| [Python](ProblemSolving/Python/Implementation/breaking_the_records.py), [Go](ProblemSolving/Go/Implementation/breaking_the_records.go) | Easy | 10 |
+|[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| [Python](ProblemSolving/Python/Implementation/birthday_chocolate.py), [Go](ProblemSolving/Go/Implementation/subarray_division.go) | Easy | 10 |
+|[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)| [Python](ProblemSolving/Python/Implementation/divisible_sum_pairs.py), [Go](ProblemSolving/Go/Implementation/divisible_sum_pairs.go) | Easy | 10 |
+|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)| [Python](ProblemSolving/Python/Implementation/migratory_birds.py), [Go](ProblemSolving/Go/Implementation/migratory_birds.go) | Easy | 10 |
+|[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)| [Go](ProblemSolving/Go/Implementation/day_of_the_programmer.go) | Easy | 15 |
+|[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)| [Python](ProblemSolving/Python/Implementation/bon_appetit.py), [Go](ProblemSolving/Go/Implementation/bill_division.go) | Easy | 10 |
 |[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)| [Python](ProblemSolving/Python/Implementation/sock_merchant.py) | Easy | 10 |
 |[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| [Python](ProblemSolving/Python/Implementation/drawing_book.py) | Easy | 10 |
 |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| [Python](ProblemSolving/Python/Implementation/counting_valleys.py) | Easy | 15 |
