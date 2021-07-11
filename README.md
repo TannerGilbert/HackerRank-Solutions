@@ -82,8 +82,8 @@
 |[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)| [Python](ProblemSolving/Python/Implementation/migratory_birds.py), [Go](ProblemSolving/Go/Implementation/migratory_birds.go) | Easy | 10 |
 |[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)| [Go](ProblemSolving/Go/Implementation/day_of_the_programmer.go) | Easy | 15 |
 |[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)| [Python](ProblemSolving/Python/Implementation/bon_appetit.py), [Go](ProblemSolving/Go/Implementation/bill_division.go) | Easy | 10 |
-|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)| [Python](ProblemSolving/Python/Implementation/sock_merchant.py) | Easy | 10 |
-|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| [Python](ProblemSolving/Python/Implementation/drawing_book.py) | Easy | 10 |
+|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)| [Python](ProblemSolving/Python/Implementation/sock_merchant.py), [Go](ProblemSolving/Go/Implementation/sales_by_match.go) | Easy | 10 |
+|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| [Python](ProblemSolving/Python/Implementation/drawing_book.py), [Go](ProblemSolving/Go/Implementation/drawing_book.go) | Easy | 10 |
 |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| [Python](ProblemSolving/Python/Implementation/counting_valleys.py) | Easy | 15 |
 |[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)| [Python](ProblemSolving/Python/Implementation/electronics_shop.py) | Easy | 15 |
 |[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)| [Python](ProblemSolving/Python/Implementation/cats_and_a_mouse.py) | Easy | 15 |
