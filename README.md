@@ -94,3 +94,6 @@
 |[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)| [Python](ProblemSolving/Python/Implementation/designer_pdf_viewer.py), [Go](ProblemSolving/Go/Implementation/designer_pdf_viewer.go) | Easy | 20 |
 |[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)| [Python](ProblemSolving/Python/Implementation/utopian_tree.py), [Go](ProblemSolving/Go/Implementation/utopian_tree.go) | Easy | 20 |
 |[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)| [Python](ProblemSolving/Python/Implementation/angry_professor.py), [Go](ProblemSolving/Go/Implementation/angry_professor.go) | Easy | 20 |
+|[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)| [Python](ProblemSolving/Python/Implementation/beautiful_days_at_the_movies.py), [Go](ProblemSolving/Go/Implementation/beautiful_days_at_the_movies.go) | Easy | 15 |
+|[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)| [Go](ProblemSolving/Go/Implementation/viral_advertising.go) | Easy | 15 |
+|[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)| [Go](ProblemSolving/Go/Implementation/save_the_prisoner.go) | Easy | 15 |
