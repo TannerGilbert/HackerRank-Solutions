@@ -72,8 +72,9 @@
 | Problem         | Solution | Difficulty | Points |
 |:---------------:|:--------:|:----------:|:------:|
 |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)| [Python](ProblemSolving/Python/Implementation/grading_students.py), [Go](ProblemSolving/Go/Implementation/grading_students.go) | Easy | 10 |
+|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)| [Python](ProblemSolving/Python/Implementation/apple_and_orange.py), [Go](ProblemSolving/Go/Implementation/apple_and_orange.go) | Easy | 10 |
 |[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)| [Python](ProblemSolving/Python/Implementation/kangaroo.py), [Go](ProblemSolving/Go/Implementation/number_line_jumps.go) | Easy | 10 |
-|[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)| [Python](ProblemSolving/Python/Implementation/find_digits.py), [Go](ProblemSolving/Go/Implementation/between_two_sets.go) | Easy | 25 |
+|[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)| [Python](ProblemSolving/Python/Implementation/find_digits.py), [Go](ProblemSolving/Go/Implementation/find_digits.go) | Easy | 25 |
 |[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)| [Python](ProblemSolving/Python/Implementation/extra_long_factorials.py) | Medium | 20 |
 |[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| [Python](ProblemSolving/Python/Implementation/between_two_sets.py), [Go](ProblemSolving/Go/Implementation/between_two_sets.go) | Easy | 10 |
 |[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)| [Python](ProblemSolving/Python/Implementation/breaking_the_records.py), [Go](ProblemSolving/Go/Implementation/breaking_the_records.go) | Easy | 10 |
@@ -97,3 +98,9 @@
 |[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)| [Python](ProblemSolving/Python/Implementation/beautiful_days_at_the_movies.py), [Go](ProblemSolving/Go/Implementation/beautiful_days_at_the_movies.go) | Easy | 15 |
 |[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)| [Go](ProblemSolving/Go/Implementation/viral_advertising.go) | Easy | 15 |
 |[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)| [Go](ProblemSolving/Go/Implementation/save_the_prisoner.go) | Easy | 15 |
+|[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)| [Python](ProblemSolving/Python/Implementation/circular_array_rotation.py) | Easy | 20 |
+|[Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)| [Python](ProblemSolving/Python/Implementation/jumping_on_clouds_revisited.py), [Go](ProblemSolving/Go/Implementation/jumping_on_clouds_revisited.go) | Easy | 15 |
+|[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)| [Python](ProblemSolving/Python/Implementation/append_and_delete.py) | Easy | 20 |
+|[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)| [Python](ProblemSolving/Python/Implementation/sherlock_and_squares.py) | Easy | 20 |
+|[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)| [Python](ProblemSolving/Python/Implementation/library_fine.py), [Go](ProblemSolving/Go/Implementation/library_fine.go) | Easy | 15 |
+|[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)| [Python](ProblemSolving/Python/Implementation/cut_the_sticks.py) | Easy | 25 |
