@@ -52,6 +52,24 @@
 |[String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)| [Python](Python/Strings/string_formatting.py) | Easy | 10 |
 |[Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)| [Python](Python/Strings/capitalize.py) | Easy | 20 |
 
+## Sets
+
+| Problem         | Solution | Difficulty | Points |
+|:---------------:|:--------:|:----------:|:------:|
+|[Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)| [Python](Python/Sets/introduction_to_sets.py) | Easy | 10 |
+|[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)| [Python](Python/Sets/symmetric_difference.py) | Easy | 10 |
+|[Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)| [Python](Python/Sets/set_add.py) | Easy | 10 |
+|[Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)| [Python](Python/Sets/set_discard_remove_and_pop.py) | Easy | 10 |
+|[Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)| [Python](Python/Sets/set_union_operation.py) | Easy | 10 |
+|[Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)| [Python](Python/Sets/set_intersection_operation.py) | Easy | 10 |
+|[Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)| [Python](Python/Sets/set_difference_operation.py) | Easy | 10 |
+|[Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)| [Python](Python/Sets/set_symmetric_difference.py) | Easy | 10 |
+|[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)| [Python](Python/Sets/set_mutations.py) | Easy | 10 |
+|[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)| [Python](Python/Sets/the_captains_room.py) | Easy | 10 |
+|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)| [Python](Python/Sets/check_subset.py) | Easy | 10 |
+|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)| [Python](Python/Sets/check_strict_superset.py) | Easy | 10 |
+|[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)| [Python](Python/Sets/no_idea.py) | Medium | 50 |
+
 # Problem Solving
 
 ## Warmup
