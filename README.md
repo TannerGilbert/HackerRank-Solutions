@@ -82,6 +82,17 @@
 |[Triangle Quest](https://www.hackerrank.com/challenges/find-angle/problem)| [Python](Python/Math/triangle_quest.py) | Medium | 20 |
 |[Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)| [Python](Python/Math/triangle_quest_2.py) | Medium | 20 |
 
+## Itertools
+
+| Problem         | Solution | Difficulty | Points |
+|:---------------:|:--------:|:----------:|:------:|
+|[itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)| [Python](Python/Itertools/itertools_product.py) | Easy | 10 |
+|[itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)| [Python](Python/Itertools/itertools_permutations.py) | Easy | 10 |
+|[itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)| [Python](Python/Itertools/itertools_combinations.py) | Easy | 10 |
+|[itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)| [Python](Python/Itertools/itertools_combinations_with_replacement.py) | Easy | 10 |
+|[Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)| [Python](Python/Itertools/compress_the_string.py) | Medium | 20 |
+|[Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)| [Python](Python/Itertools/iterables_and_iterators.py) | Medium | 40 |
+|[Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)| [Python](Python/Itertools/maximize_it.py) | Hard | 50 |
 
 # Problem Solving
 
