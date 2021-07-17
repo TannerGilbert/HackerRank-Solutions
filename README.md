@@ -70,6 +70,19 @@
 |[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)| [Python](Python/Sets/check_strict_superset.py) | Easy | 10 |
 |[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)| [Python](Python/Sets/no_idea.py) | Medium | 50 |
 
+## Math
+
+| Problem         | Solution | Difficulty | Points |
+|:---------------:|:--------:|:----------:|:------:|
+|[Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)| [Python](Python/Math/mod_divmod.py) | Easy | 10 |
+|[Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem)| [Python](Python/Math/power_mod_power.py) | Easy | 10 |
+|[Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)| [Python](Python/Math/integers_come_in_all_sizes.py) | Easy | 10 |
+|[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)| [Python](Python/Math/polar_coordinates.py) | Easy | 10 |
+|[Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)| [Python](Python/Math/find_angle_mbc.py) | Medium | 10 |
+|[Triangle Quest](https://www.hackerrank.com/challenges/find-angle/problem)| [Python](Python/Math/triangle_quest.py) | Medium | 20 |
+|[Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)| [Python](Python/Math/triangle_quest_2.py) | Medium | 20 |
+
+
 # Problem Solving
 
 ## Warmup
