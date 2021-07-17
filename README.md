@@ -10,6 +10,7 @@
 
 * [Python](#python)
 * [Problem Solving](#problem-solving)
+* [10 Days Of Statistics](#10-Days-Of-Statistics)
 
 # Python
 
@@ -104,3 +105,13 @@
 |[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)| [Python](ProblemSolving/Python/Implementation/sherlock_and_squares.py) | Easy | 20 |
 |[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)| [Python](ProblemSolving/Python/Implementation/library_fine.py), [Go](ProblemSolving/Go/Implementation/library_fine.go) | Easy | 15 |
 |[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)| [Python](ProblemSolving/Python/Implementation/cut_the_sticks.py) | Easy | 25 |
+
+# 10 Days Of Statistics
+
+| Problem         | Solution | Difficulty | Points |
+|:---------------:|:--------:|:----------:|:------:|
+|[Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)| [Python](10DaysOfStatistics/day_0_mean_median_and_mode.py) | Easy | 30 |
+|[Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem)| [Python](10DaysOfStatistics/day_0_weighted_mean.py) | Easy | 30 |
+|[Day 1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem)| [Python](10DaysOfStatistics/day_1_quartiles.py) | Easy | 30 |
+|[Day 1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem)| [Python](10DaysOfStatistics/day_1_interquartile_range.py) | Easy | 30 |
+|[Day 1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem)| [Python](10DaysOfStatistics/day_1_standard_deviation.py) | Easy | 30 |
