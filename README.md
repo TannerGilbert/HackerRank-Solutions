@@ -157,3 +157,7 @@
 |[Day 1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem)| [Python](10DaysOfStatistics/day_1_quartiles.py) | Easy | 30 |
 |[Day 1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem)| [Python](10DaysOfStatistics/day_1_interquartile_range.py) | Easy | 30 |
 |[Day 1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem)| [Python](10DaysOfStatistics/day_1_standard_deviation.py) | Easy | 30 |
+|[Day 4: Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem)| [Python](10DaysOfStatistics/day_4_binomial_distribution_I.py) | Easy | 30 |
+|[Day 4: Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem)| [Python](10DaysOfStatistics/day_4_binomial_distribution_II.py) | Easy | 30 |
+|[Day 4: Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem)| [Python](10DaysOfStatistics/day_4_geometric_distribution_I.py) | Easy | 30 |
+|[Day 4: Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem)| [Python](10DaysOfStatistics/day_4_geometric_distribution_II.py) | Easy | 30 |
