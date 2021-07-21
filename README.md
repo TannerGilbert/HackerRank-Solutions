@@ -161,3 +161,7 @@
 |[Day 4: Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem)| [Python](10DaysOfStatistics/day_4_binomial_distribution_II.py) | Easy | 30 |
 |[Day 4: Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem)| [Python](10DaysOfStatistics/day_4_geometric_distribution_I.py) | Easy | 30 |
 |[Day 4: Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem)| [Python](10DaysOfStatistics/day_4_geometric_distribution_II.py) | Easy | 30 |
+|[Day 5: Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem)| [Python](10DaysOfStatistics/day_5_poisson_distribution_I.py) | Easy | 30 |
+|[Day 5: Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem)| [Python](10DaysOfStatistics/day_5_poisson_distribution_II.py) | Easy | 30 |
+|[Day 5: Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem)| [Python](10DaysOfStatistics/day_5_normal_distribution_I.py), [Python Scipy Implementation](10DaysOfStatistics/day_5_normal_distribution_I_scipy.py) | Easy | 30 |
+|[Day 5: Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem)| [Python](10DaysOfStatistics/day_5_normal_distribution_II.py) | Easy | 30 |
