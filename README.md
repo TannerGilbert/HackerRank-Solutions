@@ -165,3 +165,9 @@
 |[Day 5: Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem)| [Python](10DaysOfStatistics/day_5_poisson_distribution_II.py) | Easy | 30 |
 |[Day 5: Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem)| [Python](10DaysOfStatistics/day_5_normal_distribution_I.py), [Python Scipy Implementation](10DaysOfStatistics/day_5_normal_distribution_I_scipy.py) | Easy | 30 |
 |[Day 5: Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem)| [Python](10DaysOfStatistics/day_5_normal_distribution_II.py) | Easy | 30 |
+|[Day 6: The Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem)| [Python](10DaysOfStatistics/day_6_the_central_limit_theorem_I.py) | Easy | 30 |
+|[Day 6: The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem)| [Python](10DaysOfStatistics/day_6_the_central_limit_theorem_II.py) | Easy | 30 |
+|[Day 6: The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem)| [Python](10DaysOfStatistics/day_6_the_central_limit_theorem_III.py) | Easy | 30 |
+|[Day 7: Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem)| [Python](10DaysOfStatistics/day_7_pearson_correlation_coefficient_I.py) | Easy | 30 |
+|[Day 7: Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem)| [Python](10DaysOfStatistics/day_7_spearmans_rank_correlation_coefficient.py) | Easy | 30 |
+|[Day 8: Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem)| [Python](10DaysOfStatistics/day_8_least_square_regression_line.py) | Easy | 30 |
