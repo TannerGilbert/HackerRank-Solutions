@@ -3,10 +3,6 @@
     <img alt="HackerRank" src="./hacker-rank-logo.png">
   </a>
 </p>
-<p align="center">
-  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-36-brightgreen.svg?longCache=true&style=for-the-badge">
-  <img alt="Languages" src="https://img.shields.io/badge/Languages-Python/SQL-brightgreen.svg?longCache=true&style=for-the-badge">
-</p>
 
 * [Python](#python)
 * [Problem Solving](#problem-solving)
@@ -171,3 +167,4 @@
 |[Day 7: Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem)| [Python](10DaysOfStatistics/day_7_pearson_correlation_coefficient_I.py) | Easy | 30 |
 |[Day 7: Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem)| [Python](10DaysOfStatistics/day_7_spearmans_rank_correlation_coefficient.py) | Easy | 30 |
 |[Day 8: Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem)| [Python](10DaysOfStatistics/day_8_least_square_regression_line.py) | Easy | 30 |
+|[Day 9: Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem)| [Python](10DaysOfStatistics/day_9_multiple_linear_regression.py) | Medium | 30 |
