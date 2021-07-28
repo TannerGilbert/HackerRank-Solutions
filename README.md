@@ -143,6 +143,17 @@
 |[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)| [Python](ProblemSolving/Python/Implementation/sherlock_and_squares.py) | Easy | 20 |
 |[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)| [Python](ProblemSolving/Python/Implementation/library_fine.py), [Go](ProblemSolving/Go/Implementation/library_fine.go) | Easy | 15 |
 |[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)| [Python](ProblemSolving/Python/Implementation/cut_the_sticks.py) | Easy | 25 |
+|[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)| [Python](ProblemSolving/Python/Implementation/sequence_equation.py) | Easy | 20 |
+|[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)| [Python](ProblemSolving/Python/Implementation/jumping_on_the_clouds.py) | Easy | 20 |
+|[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)| [Python](ProblemSolving/Python/Implementation/equalize_the_array.py) | Easy | 20 |
+|[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)| [Python](ProblemSolving/Python/Implementation/acm_icpc_team.py) | Easy | 25 |
+|[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)| [Python](ProblemSolving/Python/Implementation/taum_and_bday.py) | Easy | 25 |
+|[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)| [Python](ProblemSolving/Python/Implementation/service_lane.py) | Easy | 20 |
+|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)| [Python](ProblemSolving/Python/Implementation/minimum_distances.py) | Easy | 20 |
+|[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)| [Python](ProblemSolving/Python/Implementation/beautiful_triplets.py) | Easy | 20 |
+|[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)| [Python](ProblemSolving/Python/Implementation/modified_kaprekar_numbers.py) | Easy | 30 |
+|[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)| [Python](ProblemSolving/Python/Implementation/lisas_workbook.py) | Easy | 25 |
+|[Funny String](https://www.hackerrank.com/challenges/funny-string/problem)| [Python](ProblemSolving/Python/Implementation/funny_string.py) | Easy | 25 |
 
 # 10 Days Of Statistics
 
