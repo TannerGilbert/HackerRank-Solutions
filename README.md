@@ -153,7 +153,22 @@
 |[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)| [Python](ProblemSolving/Python/Implementation/beautiful_triplets.py) | Easy | 20 |
 |[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)| [Python](ProblemSolving/Python/Implementation/modified_kaprekar_numbers.py) | Easy | 30 |
 |[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)| [Python](ProblemSolving/Python/Implementation/lisas_workbook.py) | Easy | 25 |
-|[Funny String](https://www.hackerrank.com/challenges/funny-string/problem)| [Python](ProblemSolving/Python/Implementation/funny_string.py) | Easy | 25 |
+|[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)| [Python](ProblemSolving/Python/Implementation/repeated_string.py) | Easy | 20 |
+
+
+## Sorting
+
+| Problem         | Solution | Difficulty | Points |
+|:---------------:|:--------:|:----------:|:------:|
+|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)| [Python](ProblemSolving/Python/Sorting/intro_to_tutorial_challenges.py) | Easy | 30 |
+
+
+## Strings
+
+| Problem         | Solution | Difficulty | Points |
+|:---------------:|:--------:|:----------:|:------:|
+|[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)| [Python](ProblemSolving/Python/Strings/camel_case.py) | Easy | 15 |
+|[Funny String](https://www.hackerrank.com/challenges/funny-string/problem)| [Python](ProblemSolving/Python/Strings/funny_string.py) | Easy | 25 |
 
 # 10 Days Of Statistics
 
