@@ -154,7 +154,9 @@
 |[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)| [Python](ProblemSolving/Python/Implementation/modified_kaprekar_numbers.py) | Easy | 30 |
 |[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)| [Python](ProblemSolving/Python/Implementation/lisas_workbook.py) | Easy | 25 |
 |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)| [Python](ProblemSolving/Python/Implementation/repeated_string.py) | Easy | 20 |
-
+|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)| [Python](ProblemSolving/Python/Implementation/chocolate_feast.py) | Easy | 25 |
+|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)| [Python](ProblemSolving/Python/Implementation/halloween_sale.py) | Easy | 20 |
+|[Encryption](https://www.hackerrank.com/challenges/encryption/problem)| [Python](ProblemSolving/Python/Implementation/encryption.py) | Medium | 30 |
 
 ## Sorting
 
