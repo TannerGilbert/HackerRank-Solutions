@@ -157,6 +157,8 @@
 |[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)| [Python](ProblemSolving/Python/Implementation/chocolate_feast.py) | Easy | 25 |
 |[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)| [Python](ProblemSolving/Python/Implementation/halloween_sale.py) | Easy | 20 |
 |[Encryption](https://www.hackerrank.com/challenges/encryption/problem)| [Python](ProblemSolving/Python/Implementation/encryption.py) | Medium | 30 |
+|[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)| [Python](ProblemSolving/Python/Implementation/the_time_in_words.py) | Medium | 25 |
+|[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)| [Python](ProblemSolving/Python/Implementation/cavity_map.py) | Easy | 30 |
 
 ## Sorting
 
