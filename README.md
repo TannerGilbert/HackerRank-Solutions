@@ -165,6 +165,7 @@
 | Problem         | Solution | Difficulty | Points |
 |:---------------:|:--------:|:----------:|:------:|
 |[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)| [Python](ProblemSolving/Python/Sorting/intro_to_tutorial_challenges.py) | Easy | 30 |
+|[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)| [Python](ProblemSolving/Python/Sorting/big_sorting.py) | Easy | 20 |
 
 
 ## Strings
