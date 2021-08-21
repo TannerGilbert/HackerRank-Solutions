@@ -166,7 +166,17 @@
 |:---------------:|:--------:|:----------:|:------:|
 |[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)| [Python](ProblemSolving/Python/Sorting/intro_to_tutorial_challenges.py) | Easy | 30 |
 |[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)| [Python](ProblemSolving/Python/Sorting/big_sorting.py) | Easy | 20 |
-
+|[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)| [Python](ProblemSolving/Python/Sorting/insertion_sort_part_1.py) | Easy | 30 |
+|[Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)| [Python](ProblemSolving/Python/Sorting/insertion_sort_part_2.py) | Easy | 30 |
+|[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)| [Python](ProblemSolving/Python/Sorting/correctness_and_the_loop_invariant.py) | Easy | 30 |
+|[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)| [Python](ProblemSolving/Python/Sorting/running_time_of_algorithms.py) | Easy | 30 |
+|[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)| [Python](ProblemSolving/Python/Sorting/quicksort_1_partition.py) | Easy | 10 |
+|[Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2/problem)| [Python](ProblemSolving/Python/Sorting/quicksort_2_sorting.py) | Easy | 30 |
+|[Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3/problem)| [Python](ProblemSolving/Python/Sorting/quicksort_in_place.py) | Medium | 35 |
+|[Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4/problem)| [Python](ProblemSolving/Python/Sorting/running_time_of_quicksort.py) | Easy | 35 |
+|[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)| [Python](ProblemSolving/Python/Sorting/counting_sort_1.py) | Easy | 30 |
+|[Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)| [Python](ProblemSolving/Python/Sorting/counting_sort_2.py) | Easy | 30 |
+|[The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem)| [Python](ProblemSolving/Python/Sorting/the_full_counting_sort.py) | Medium | 40 |
 
 ## Strings
 
