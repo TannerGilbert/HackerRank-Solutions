@@ -159,6 +159,10 @@
 |[Encryption](https://www.hackerrank.com/challenges/encryption/problem)| [Python](ProblemSolving/Python/Implementation/encryption.py) | Medium | 30 |
 |[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)| [Python](ProblemSolving/Python/Implementation/the_time_in_words.py) | Medium | 25 |
 |[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)| [Python](ProblemSolving/Python/Implementation/cavity_map.py) | Easy | 30 |
+|[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)| [Python](ProblemSolving/Python/Implementation/the_grid_search.py) | Medium | 30 |
+|[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)| [Python](ProblemSolving/Python/Implementation/manasa_and_stones.py) | Easy | 30 |
+|[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| [Python](ProblemSolving/Python/Implementation/queens_attack_2.py) | Medium | 30 |
+|[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)| [Python](ProblemSolving/Python/Implementation/non_divisible_subset.py) | Medium | 20 |
 
 ## Sorting
 
@@ -177,6 +181,8 @@
 |[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)| [Python](ProblemSolving/Python/Sorting/counting_sort_1.py) | Easy | 30 |
 |[Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)| [Python](ProblemSolving/Python/Sorting/counting_sort_2.py) | Easy | 30 |
 |[The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem)| [Python](ProblemSolving/Python/Sorting/the_full_counting_sort.py) | Medium | 40 |
+|[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)| [Python](ProblemSolving/Python/Sorting/closest_numbers.py) | Easy | 35 |
+|[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)| [Python](ProblemSolving/Python/Sorting/find_the_median.py) | Easy | 35 |
 
 ## Strings
 
