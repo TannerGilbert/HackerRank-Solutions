@@ -163,6 +163,10 @@
 |[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)| [Python](ProblemSolving/Python/Implementation/manasa_and_stones.py) | Easy | 30 |
 |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| [Python](ProblemSolving/Python/Implementation/queens_attack_2.py) | Medium | 30 |
 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)| [Python](ProblemSolving/Python/Implementation/non_divisible_subset.py) | Medium | 20 |
+|[Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)| [Python](ProblemSolving/Python/Implementation/strange_counter.py) | Easy | 30 |
+|[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)| [Python](ProblemSolving/Python/Implementation/hackerrank_in_a_string.py) | Easy | 30 |
+|[Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)| [Python](ProblemSolving/Python/Implementation/gemstones.py) | Easy | 20 |
+|[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)| [Python](ProblemSolving/Python/Implementation/alternating_characters.py) | Easy | 20 |
 
 ## Sorting
 
