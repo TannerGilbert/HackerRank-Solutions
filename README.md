@@ -103,6 +103,12 @@
 |[Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)| [Python](Python/Collections/company_logo.py) | Medium | 30 |
 |[Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)| [Python](Python/Collections/piling_up.py) | Medium | 50 |
 
+## Date and Time
+
+| Problem         | Solution | Difficulty | Points |
+|:---------------:|:--------:|:----------:|:------:|
+|[Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)| [Python](Python/DateAndTime/calendar_module.py) | Easy | 10 |
+
 # Problem Solving
 
 ## Warmup
