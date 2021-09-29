@@ -90,6 +90,19 @@
 |[Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)| [Python](Python/Itertools/iterables_and_iterators.py) | Medium | 40 |
 |[Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)| [Python](Python/Itertools/maximize_it.py) | Hard | 50 |
 
+## Collections
+
+| Problem         | Solution | Difficulty | Points |
+|:---------------:|:--------:|:----------:|:------:|
+|[collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem)| [Python](Python/Collections/collections_counter.py) | Easy | 10 |
+|[DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)| [Python](Python/Collections/defaultdict_tutorial.py) | Easy | 20 |
+|[Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)| [Python](Python/Collections/collections_namedtuple.py) | Easy | 20 |
+|[Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)| [Python](Python/Collections/collections_ordereddict.py) | Easy | 20 |
+|[Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)| [Python](Python/Collections/collections_deque.py) | Easy | 20 |
+|[Word Order](https://www.hackerrank.com/challenges/word-order/problem)| [Python](Python/Collections/collections_deque.py) | Medium | 50 |
+|[Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)| [Python](Python/Collections/company_logo.py) | Medium | 30 |
+|[Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)| [Python](Python/Collections/piling_up.py) | Medium | 50 |
+
 # Problem Solving
 
 ## Warmup
