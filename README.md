@@ -213,6 +213,8 @@
 |:---------------:|:--------:|:----------:|:------:|
 |[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)| [Python](ProblemSolving/Python/Strings/camel_case.py) | Easy | 15 |
 |[Funny String](https://www.hackerrank.com/challenges/funny-string/problem)| [Python](ProblemSolving/Python/Strings/funny_string.py) | Easy | 25 |
+|[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)| [Python](ProblemSolving/Python/Strings/super_reduced_string.py) | Easy | 10 |
+|[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)| [Python](ProblemSolving/Python/Strings/strong_password.py) | Easy | 15 |
 
 # 10 Days Of Statistics
 
