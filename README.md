@@ -215,6 +215,14 @@
 |[Funny String](https://www.hackerrank.com/challenges/funny-string/problem)| [Python](ProblemSolving/Python/Strings/funny_string.py) | Easy | 25 |
 |[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)| [Python](ProblemSolving/Python/Strings/super_reduced_string.py) | Easy | 10 |
 |[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)| [Python](ProblemSolving/Python/Strings/strong_password.py) | Easy | 15 |
+|[Two Characters](https://www.hackerrank.com/challenges/two-characters/problem)| [Python](ProblemSolving/Python/Strings/two_characters.py) | Easy | 20 |
+|[Caesar Chiper](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)| [Python](ProblemSolving/Python/Strings/caesar_chiper.py) | Easy | 15 |
+|[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)| [Python](ProblemSolving/Python/Strings/mars_exploration.py) | Easy | 15 |
+|[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)| [Python](ProblemSolving/Python/Strings/pangrams.py) | Easy | 20 |
+|[Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)| [Python](ProblemSolving/Python/Strings/weighted_uniform_strings.py) | Easy | 20 |
+|[Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)| [Python](ProblemSolving/Python/Strings/separate_the_numbers.py) | Easy | 20 |
+|[Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)| [Python](ProblemSolving/Python/Strings/gemstones.py) | Easy | 20 |
+|[Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)| [Python](ProblemSolving/Python/Strings/gemstones.py) | Easy | 20 |
 
 # 10 Days Of Statistics
 
