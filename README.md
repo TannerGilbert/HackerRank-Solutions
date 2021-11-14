@@ -223,6 +223,12 @@
 |[Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)| [Python](ProblemSolving/Python/Strings/separate_the_numbers.py) | Easy | 20 |
 |[Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)| [Python](ProblemSolving/Python/Strings/gemstones.py) | Easy | 20 |
 |[Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)| [Python](ProblemSolving/Python/Strings/gemstones.py) | Easy | 20 |
+|[Anagram](https://www.hackerrank.com/challenges/anagram/problem)| [Python](ProblemSolving/Python/Strings/anagram.py) | Easy | 25 |
+|[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)| [Python](ProblemSolving/Python/Strings/game_of_thrones.py) | Easy | 30 |
+|[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)| [Python](ProblemSolving/Python/Strings/making_anagrams.py) | Easy | 30 |
+|[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)| [Python](ProblemSolving/Python/Strings/two_strings.py) | Easy | 25 |
+|[String Construction](https://www.hackerrank.com/challenges/string-construction/problem)| [Python](ProblemSolving/Python/Strings/string_construction.py) | Easy | 25 |
+|[The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)| [Python](ProblemSolving/Python/Strings/the_love_letter_mystery.py) | Easy | 20 |
 
 # 10 Days Of Statistics
 
