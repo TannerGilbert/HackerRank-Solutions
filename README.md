@@ -22,6 +22,14 @@
 |[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)| [Python](Python/Introduction/write_a_function.py) | Medium | 10 |
 |[Print Function](https://www.hackerrank.com/challenges/python-print/problem)| [Python](Python/Introduction/print_function.py) | Easy | 20 |
 
+## Built-Ins
+
+| Problem         | Solution | Difficulty | Points |
+|:---------------:|:--------:|:----------:|:------:|
+|[Input()](https://www.hackerrank.com/challenges/input/problem)| [Python](Python/Built-Ins/input.py) | Easy | 20 |
+|[Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem)| [Python](Python/Built-Ins/python_evaluation.py) | Easy | 20 |
+|[Zipped!](https://www.hackerrank.com/challenges/zipped/problem)| [Python](Python/Built-Ins/zipped.py) | Easy | 10 |
+
 
 ## Basic Data Types
 
@@ -229,6 +237,13 @@
 |[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)| [Python](ProblemSolving/Python/Strings/two_strings.py) | Easy | 25 |
 |[String Construction](https://www.hackerrank.com/challenges/string-construction/problem)| [Python](ProblemSolving/Python/Strings/string_construction.py) | Easy | 25 |
 |[The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)| [Python](ProblemSolving/Python/Strings/the_love_letter_mystery.py) | Easy | 20 |
+|[Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)| [Python](ProblemSolving/Python/Strings/designer_door_mat.py) | Easy | 10 |
+
+## Search
+
+| Problem         | Solution | Difficulty | Points |
+|:---------------:|:--------:|:----------:|:------:|
+|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)| [Python](ProblemSolving/Python/Search/ice_cream_parlor.py) | Easy | 30 |
 
 # 10 Days Of Statistics
 
